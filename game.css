@@ -1,0 +1,4 @@
+#stats { position: absolute; top:0; left: 0; z-index: 1 }
+#stats #fps { background: transparent !important }
+#stats #fps #fpsText { color: #777 !important }
+#stats #fps #fpsGraph { display: none }
